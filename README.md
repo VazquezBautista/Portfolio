@@ -14,7 +14,7 @@ A full-stack platform designed to centralize and digitalize the operation of sma
 **Highlights:** extensible external-service integrations, cloud-to-local printing architecture, PostgreSQL schema lifecycle with Alembic, automated testing, auditability, and Google Cloud deployment.
 
 **Core stack:** Python · Flask · React · PostgreSQL · SQLAlchemy · Alembic · Docker · Google Cloud  
-**Deployment:** [Live application](https://frontend-574076260207.us-central1.run.app)
+**Live deployment:** [Ida y Vuelta DECO](https://idayvueltadeco.com)
 
 ---
 
