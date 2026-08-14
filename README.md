@@ -13,7 +13,8 @@ A full-stack platform designed to centralize and digitalize the operation of sma
 
 **Highlights:** extensible external-service integrations, cloud-to-local printing architecture, PostgreSQL schema lifecycle with Alembic, automated testing, auditability, and Google Cloud deployment.
 
-**Core stack:** Python · Flask · React · PostgreSQL · SQLAlchemy · Alembic · Docker · Google Cloud
+**Core stack:** Python · Flask · React · PostgreSQL · SQLAlchemy · Alembic · Docker · Google Cloud  
+**Deployment:** [Live application](https://frontend-574076260207.us-central1.run.app)
 
 ---
 
@@ -22,7 +23,8 @@ A web platform built for a real transportation and tourism services company. It 
 
 **Highlights:** real business-process modeling, role-based authorization, chronological service management, REST API, containerized deployment, and migration from SQL Server to PostgreSQL.
 
-**Core stack:** Python · Flask · React · PostgreSQL · SQLAlchemy · Docker · Google Cloud
+**Core stack:** Python · Flask · React · PostgreSQL · SQLAlchemy · Docker · Google Cloud  
+**Deployment:** Google Cloud (live deployment; public frontend link to be added)
 
 ## Technical Skills
 
