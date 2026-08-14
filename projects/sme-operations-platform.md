@@ -1,7 +1,8 @@
 # SME Operations Platform
 
 **Status:** In active development · 2026–Present  
-**Role:** Product definition, system design, architecture, UX/UI, implementation direction, testing and deployment
+**Role:** Product definition, system design, architecture, UX/UI, implementation direction, testing and deployment  
+**Live demo:** [Open deployed application](https://frontend-574076260207.us-central1.run.app)
 
 ## Overview
 
