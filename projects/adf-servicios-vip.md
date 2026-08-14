@@ -2,7 +2,8 @@
 
 **Year:** 2026  
 **Context:** Independent project for a transportation and tourism services company  
-**Role:** Product definition, process modeling, system design, UX/UI, implementation direction, testing and deployment
+**Role:** Product definition, process modeling, system design, UX/UI, implementation direction, testing and deployment  
+**Live:** [adfservicios.com](https://adfservicios.com)
 
 ## Overview
 
@@ -59,7 +60,7 @@ This was one of the first projects where I had to treat database evolution and d
 
 ## Deployment
 
-The frontend and backend are containerized separately. The production-oriented setup uses Docker, Nginx/Gunicorn where appropriate, and Google Cloud infrastructure.
+The frontend and backend are containerized separately. The production-oriented setup uses Docker, Nginx/Gunicorn where appropriate, and Google Cloud infrastructure. The public deployment is available at [adfservicios.com](https://adfservicios.com).
 
 ## Technology
 
