@@ -2,7 +2,7 @@
 
 **Status:** In active development · 2026–Present  
 **Role:** Product definition, system design, architecture, UX/UI, implementation direction, testing and deployment  
-**Live demo:** [Open deployed application](https://frontend-574076260207.us-central1.run.app)
+**Live deployment:** [Ida y Vuelta DECO](https://idayvueltadeco.com)
 
 ## Overview
 
@@ -93,7 +93,9 @@ The system also includes administrative auditability, structured operational che
 
 ## Current State
 
-The platform is actively evolving. Some capabilities are production-ready while others continue to be refined as the product scope grows. The project is intentionally presented here as an engineering case study rather than as a claim that every planned capability is already complete.
+The platform is actively evolving. Some capabilities are production-ready while others continue to be refined as the product scope grows. The live deployment at [idayvueltadeco.com](https://idayvueltadeco.com) provides a continuously updated public view of the customer-facing side of the platform as the project evolves.
+
+The project is intentionally presented here as an engineering case study rather than as a claim that every planned capability is already complete.
 
 ## What this project demonstrates
 
